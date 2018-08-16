@@ -8,7 +8,7 @@
 ### Tecnologias
 * Java
 * Jsoup
-* Java Message Service
+* Java Message Service (JMS)
 * XML
 * XSD
 * XSL
