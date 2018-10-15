@@ -1,4 +1,4 @@
-# XML and XML Manipulation, Java Message Service (JMS) and Message Oriented Middleware (MOM)
+# XML and XML Manipulation, Java Message Service and Message Oriented Middleware
 
 
 ### Visão geral
@@ -8,10 +8,11 @@
 ### Tecnologias
 * Java
 * Jsoup
-* Java Message Service (JMS)
 * XML
 * XSD
 * XSL
+* Java Message Service
+* WildFly
 
 
 ### Relatório
